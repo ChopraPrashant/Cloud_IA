@@ -160,11 +160,11 @@ Create any three-tier application using Docker, using a multi-container setup. B
    ![image info](./ss/16.png)
 
 10. Verify on MongoDB Compass
-    ![image info](./ss/movie_mongo.png)
+    ![image info](./ss/19.png)
 
 11. Push Images to DockerHub
-    ![image info](./ss/dockerhub_frontend_push.png)
+    ![image info](./ss/17.png)
 
-    ![image info](./ss/docker_hub_backend_push.png)
+    ![image info](./ss/18.png)
 
-    ![image info](./ss/dockerhub.png)
+    ![image info](./ss/20.png)
